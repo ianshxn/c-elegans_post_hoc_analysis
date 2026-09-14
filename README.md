@@ -1,4 +1,6 @@
-# Sun Lab Analysis Scripts
+# c-elegans_post_hoc_analysis
+
+Data analysis scripts created during time in Sun Lab, revisiting for data science education purposes.
 
 Statistical analysis and plotting scripts for dose-response behavioral data.
 
