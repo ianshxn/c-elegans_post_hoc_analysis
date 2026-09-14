@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data (keep experimental data out of the repo)
+*.csv
+*.xlsx
+*.xls
+
+# Outputs
+sig_trait_plots/
+*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
